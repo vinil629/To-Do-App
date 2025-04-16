@@ -27,11 +27,11 @@ function SavedData({ data = [] ,handle,handleedit}) {
   type="checkbox"
   checked={checked[index]}
   onChange={() => handlecheck(index)}
-  className="ml-6 w-3 h-3 accent-green-500 rounded border-2 border-black-300 cursor-pointer"
+  className="ml-6 w-3 h-3 text-black-300 rounded border-2 border-black-300 cursor-pointer"
 />
 
 
-<strong className="text-green-300">[{checked[index]?"checked":"not checked"}]</strong>
+<strong className="text-black-300">[{checked[index]?"checked":"not checked"}]</strong>
                 
             
 
