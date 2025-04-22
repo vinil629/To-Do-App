@@ -1,6 +1,6 @@
 # React + Vite
 
-my githublink:https://github.com/vinil629/To-Do-App/edit/main/T0-Do%20app/README.md#L13C0
+my githublink:https://github.com/vinil629/To-Do-App
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
